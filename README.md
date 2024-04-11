@@ -1,5 +1,5 @@
 
-## Simple Random Color Generator**
+## Simple Random Color Generator
 
 This project provides a simple and interactive way to generate random colors. It uses JavaScript to display a different color on each click of a button. You can choose between three approaches:
 
